@@ -1,0 +1,312 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.header {
+    background-image: url("/backgroind-image.jpg");
+    background-repeat: no-repeat;
+}
+
+.header-text {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+
+.header-text-background-image {
+    padding-top: 110px;
+}
+
+.create-text {
+    font-size: 6rem;
+    font-weight: bold;
+    color: white;
+    display: block;
+    padding-bottom: 20px;
+}
+
+.real-text {
+    font-size: 48px;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    display: block;
+    padding-bottom: 50px;
+}
+
+.img-phone {
+    padding-top: 50px;
+    display: inline-block;
+    height: 860px;
+}
+
+.button-a {
+    width: 140px;
+    height: 52px;
+    background-color: #f70647;
+    display: inline-block;
+    text-align: center;
+    padding-top: 19px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.button-a:hover {
+    background-color: #f70600;
+}
+
+.body-one {
+    background-color: #43005d;
+}
+
+.body-one-one {
+    width: 80%;
+    height: 617px;
+    display: flex;
+    margin: 0 auto;
+    position: relative;
+}
+
+.body-image {
+    width: 50%;
+    padding-right: 80px;
+}
+
+.img-girl {
+    width: 512px;
+    height: 580px;
+    position: absolute;
+    bottom: 150px;
+    z-index: 1;
+}
+
+.dashed-image {
+    z-index: 10000;
+    width: 284px;
+    height: 284px;
+    position: absolute;
+    top: 250px;
+    left: 300px;
+}
+
+
+.body-text {
+    padding: 60px 0 0 200px;
+}
+
+.zero-one {
+    color: white;
+    padding-bottom: 48px;
+    font-size: 128px;
+    font-family: "Roboto", sans-serif;
+}
+
+.technology {
+    color: #f70647;
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.Phasellus {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.body-two {
+    background-color: #43005d;
+    height: 635px;
+}
+
+.wight-zone {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+}
+
+.text-area {
+    width: 40%;
+    position: relative;
+}
+
+.number-zero-two {
+    font-size: 128px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    margin: 60px 0 43px;
+}
+
+.new-skill-text {
+    font-size: 48px;
+    color: #f70647;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 20px;
+}
+
+.text-two {
+    font-size: 18px;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    margin-bottom: 60px;
+    line-height: 1.6;
+}
+
+.Tennis-image {
+    height: 250px;
+    position: absolute;
+    top: 430px;
+    left: -140px;
+}
+
+.img-zone {
+    position: relative;
+    width: 60%;
+}
+
+.Circle-dashed {
+    position: absolute;
+    z-index: 0;
+    top: 30px;
+    left: 450px;
+}
+
+.Phone-image {
+    width: 568px;
+    height: 634px;
+    position: absolute;
+    left: 110px;
+}
+
+.Dashed-flat {
+    height: 197px;
+    width: 635px;
+    position: absolute;
+    top: 500px;
+    left: 145px;
+}
+
+.center {
+    height: 455px;
+}
+
+.wight-zone-2 {
+    margin: 0 auto;
+    width: 80%;
+
+}
+
+.h1-text {
+    padding: 80px 0;
+    margin: 10px 0;
+    text-align: center;
+    color: #43005d;
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+}
+
+.looking {
+    display: flex;
+    justify-content: center;
+}
+
+.looking div {
+    padding: 0 60px;
+    text-align: center;
+}
+
+.looking div h1 {
+    color: #f70647;
+    font-size: 72px;
+    font-family: "Roboto", sans-serif;
+    margin-top: 13px;
+}
+
+.looking div p {
+    color: #43005d;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.body-end {
+    background-image: linear-gradient(rgba(67, 0, 93, 0.7), rgba(67, 0, 93, 0.7)), url("closeupofthreebusinesspeoplehandsusingtheirsmartphoneswhileridingtheelevator_swgbe9_9r__F0000.jpg");
+    height: 603px;
+    background-position: center;
+    background-size: cover;
+}
+
+.body-end-one {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text-center {
+    width: 50%;
+    padding-top: 200px;
+}
+
+.text-center h1 {
+    font-size: 72px;
+    font-family: "Roboto", sans-serif;
+    color: #f70647;
+    margin-bottom: 30px;
+}
+
+.text-center p {
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+}
+/*.image-areal{*/
+/*}*/
+.image-areal input {
+    width: 376px;
+    height: 52px;
+    padding: 10px 12px;
+    box-sizing: border-box;
+    border: 3px #f70600 solid;
+    margin-bottom: 15px;
+    margin-left: 110px;
+    background-color: transparent;
+    font-size: 16px;
+}
+.image-areal input:nth-child(1){
+    margin-top: 150px;
+}
+.image-areal textarea {
+    padding: 10px 12px;
+    box-sizing: border-box;
+    border: 3px #f70600 solid;
+    margin-left: 110px;
+    margin-bottom: 15px;
+    background-color: transparent;
+    width: 376px;
+    height: 128px;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.image-areal a{
+    display: inline-block;
+    margin-left: 110px;
+    padding: 10px 30px;
+    font-family: "Open Sans",sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #f70600;
+    color: white;
+
+}
